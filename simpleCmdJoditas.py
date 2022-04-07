@@ -1,7 +1,7 @@
-import webbrowser
+import os
 
-i = input("Ingrese la direccion web:")
-for i in range(1000000000000000000000000000000000000000000000000000000000000000):
+for i in range(1,10):
     while i:
-        webbrowser.open('i',webbrowser.open('https://www.xnxx.com/search/sexo-casero
-'))
+        os.system('cmd /c "ipconfig')
+        
+#ejecuta varias veces cmd
