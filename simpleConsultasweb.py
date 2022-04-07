@@ -1,5 +1,6 @@
-import os
+# coding=utf-8
+import socket
 
-for i in range(12):
-    while i:
-        os.system('cmd /c "ipconfig"')
+gethostbyname = input(str("Ingrese el host Y ver su Target: "))
+print(socket.gethostbyname(gethostbyname))
+
